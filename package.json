@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/Pagka/zvese.git",
   "author": "Kamfeskaya <chris@devtachom.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "turbo": "^1.2.14"
+  }
 }

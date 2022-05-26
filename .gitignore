@@ -3,3 +3,7 @@
 .env.development
 node_modules
 secrets.json
+.turbo
+build
+dist
+.next
