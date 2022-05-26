@@ -5,6 +5,17 @@
   "repository": "https://github.com/Pagka/zvese.git",
   "author": "Kamfeskaya <chris@devtachom.com>",
   "license": "MIT",
+  "workspaces": [
+    "@zvese/agents",
+    "@zvese/api",
+    "@zvese/bridge",
+    "@zvese/core",
+    "@zvese/cli",
+    "@zvese/dao",
+    "@zvese/frontend",
+    "@zvese/overseer",
+    "@zvese/sdk"
+  ],
   "devDependencies": {
     "turbo": "^1.2.14"
   }
