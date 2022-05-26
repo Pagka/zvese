@@ -1,0 +1,16 @@
+-Multi-currency support
+-Simultaneous multi-chain support
+-Two-factor verification
+-HD settings
+-Automated session logout
+-In-built coin purchasing
+-Multi crypto payment gateways
+-Password-protected access
+-Multilingual support
+-Ownership
+-Network options
+-Local key storage
+-Multi-signature vault
+-QR code scanner
+-Home screen customization
+-Multi-Platform compatibility
