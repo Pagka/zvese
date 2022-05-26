@@ -4,8 +4,5 @@
   "main": "index.js",
   "repository": "https://github.com/Pagka/zvese.git",
   "author": "Kamfeskaya <chris@devtachom.com>",
-  "license": "MIT",
-  "dependencies": {
-    "inquirer": "^8.2.4"
-  }
+  "license": "MIT"
 }
