@@ -14,7 +14,7 @@
     "@zvese/dao",
     "@zvese/frontend",
     "@zvese/overseer",
-    "@zvese/sdk"
+    "zvejs"
   ],
   "devDependencies": {
     "turbo": "^1.2.14"
